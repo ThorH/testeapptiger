@@ -97,6 +97,12 @@ img {
 
 }
 
+@media screen and (max-width: 500px) {
+    .gerador ul {
+        width: 200px;
+    }  
+}
+
 @media screen and (max-width: 767px) {
     .gerador ul li {
         height: 60px !important;
