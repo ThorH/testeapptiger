@@ -98,8 +98,13 @@ img {
 }
 
 @media screen and (max-width: 500px) {
+
     .gerador ul li {
-        height: 30px;
+        height: 35px;
+    }  
+
+    .gerador ul li img {
+        height: 23px;
     }  
 }
 
